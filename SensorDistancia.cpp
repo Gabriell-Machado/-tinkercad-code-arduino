@@ -27,7 +27,6 @@ void setup() {
   oLCD.clear(); 
   oLCD.print("Inicializando...");
   delay(2000);
-  
   //Serial.begin(9600);  
 }
 
